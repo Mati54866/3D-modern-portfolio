@@ -36,6 +36,7 @@ A modern, interactive 3D developer portfolio built with React, Three.js, and Tai
 - Email JS
 - Vite
 - Tailwind CSS
+- Typescript
 
 ## 🔋 Features
 
